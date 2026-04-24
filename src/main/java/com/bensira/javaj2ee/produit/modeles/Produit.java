@@ -1,4 +1,4 @@
-package com.bensira.javaj2ee;
+package com.bensira.javaj2ee.produit.modeles;
 
 /**
  * Classe représentant un Produit dans le système.

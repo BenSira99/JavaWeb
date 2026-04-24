@@ -1,9 +1,11 @@
-package com.bensira.javaj2ee;
+package com.bensira.javaj2ee.produit.controleur;
 
-import connexion.connexion;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
+
+import com.bensira.javaj2ee.produit.connexion.connexion;
+import com.bensira.javaj2ee.produit.modeles.Produit;
 
 /**
  * Gère les interactions avec la base de données SQLite.

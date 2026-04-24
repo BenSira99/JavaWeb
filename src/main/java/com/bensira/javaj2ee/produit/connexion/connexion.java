@@ -1,4 +1,4 @@
-package connexion;
+package com.bensira.javaj2ee.produit.connexion;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

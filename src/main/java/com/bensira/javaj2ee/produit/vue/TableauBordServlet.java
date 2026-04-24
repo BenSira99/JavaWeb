@@ -1,7 +1,11 @@
-package com.bensira.javaj2ee;
+package com.bensira.javaj2ee.produit.vue;
 
 import java.io.*;
 import java.util.List;
+
+import com.bensira.javaj2ee.produit.controleur.BaseDonnees;
+import com.bensira.javaj2ee.produit.modeles.Produit;
+
 import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;
 
